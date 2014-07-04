@@ -1,0 +1,13 @@
+# Site settings
+title: Cryptagora
+email: 
+description: ""
+baseurl: ""
+url: "http://cryptagora.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Less
+lessc: /usr/bin/env lessc
