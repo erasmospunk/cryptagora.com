@@ -8,7 +8,6 @@ mv _site/img/* img/
 mv _site/css/main.css css/
 mv _site/index.html ./
 mv _site/favicon.ico ./
-rm -rf _site
 
 git commit -am "update"
 git push
